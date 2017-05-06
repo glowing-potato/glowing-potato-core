@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "glowingpotatocore",
+        "name": "Glowing Potato Core",
+        "description": "A mod that the glowing potato Minecraft mods depend on.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/glowing-potato/glowing-potato-core",
+        "updateUrl": "",
+        "authorList": [
+            "Zach Deibert"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
